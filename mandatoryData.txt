@@ -1,0 +1,29 @@
+Gender: 
+- Male = 0 1
+- Female = 1 0
+
+Customer type:
+- First time = 1 0 
+- Returning = 0 1
+
+Type of travel:
+- Business = 1 0
+- Personal = 0 1
+
+Class:
+- Business = 1 0 0
+- Economy = 0 1 0
+- Economy Plus = 0 0 1
+
+Satisfied = 1
+Dissatisfied = 0
+
+ID 0:
+48, 821, 2, 5, 3, 3, 4, 3, 3, 3, 5, 2, 5, 5, 5, 3, 5, 5, 0, 1, 1, 0, 1, 0, 1, 0, 0 (Expect 0)
+
+ID 1:
+35, 821, 26, 39, 2, 2, 3, 5, 2, 5, 4, 5, 5, 3, 5, 2, 5, 5, 1, 0, 0, 1, 1, 0, 1, 0, 0 (Expect 1)
+
+ID 3:
+50, 1905, 0, 0, 2, 2, 3, 4, 2, 5, 5, 5, 4, 4, 5, 2, 5, 5, 0, 1, 0, 1, 1, 0, 1, 0, 0 (Expect 1)
+  
